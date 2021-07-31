@@ -1,6 +1,5 @@
 * {
   box-sizing: border-box;
-  cursor: pointer;
 }
 body {
   margin: 0;
@@ -146,4 +145,9 @@ body {
   display: block;
   transform: translate(50%, 50%);
   opacity: 0;
+}
+.control-pause,
+.control-prev,
+.control-next {
+  cursor: pointer;
 }
