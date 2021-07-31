@@ -151,3 +151,6 @@ body {
 .control-next {
   cursor: pointer;
 }
+.indicator {
+  cursor: pointer;
+}
